@@ -13,7 +13,7 @@ serverName::Application.routes.draw do
 		resources :lambic
 		resources :hefeweizen
 		
-		#missing the code for error 404
+		#missing the code for error  404
 	
 	end	
 end
