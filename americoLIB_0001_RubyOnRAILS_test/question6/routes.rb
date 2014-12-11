@@ -3,7 +3,7 @@
 serverName::Application.routes.draw do
 
 	#URL path like /beer/
-	resources :beers do
+	resources :beer do
 	
 		#URL path like /beer/<beer_type>/
 		resources :IPA
