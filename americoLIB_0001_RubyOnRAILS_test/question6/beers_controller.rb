@@ -1,6 +1,6 @@
 #folder: app/controllers/beers_controller
 
-class BeersController < ApplicationController
+class BeerController < ApplicationController
 
 	#only one controller
 	def index
