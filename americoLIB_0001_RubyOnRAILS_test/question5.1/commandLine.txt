@@ -1,0 +1,6 @@
+#migration
+commandLine> rails g model Parent
+commandLine> rails g model Person
+
+commandLine> rake db:migrate
+

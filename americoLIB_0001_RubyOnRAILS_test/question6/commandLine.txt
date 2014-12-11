@@ -1,0 +1,11 @@
+#command line on the rails application folder
+
+#generate controller
+-> rails g controller beers
+
+#check for existing routes
+-> rake routes
+
+
+
+
